@@ -9,3 +9,8 @@ To use this pqueue you need to modify the elemType in {basicType.h, basicType.c}
 
 
 Checkout file pqtest.c to see how to use it. 
+
+To run: 
+
+make 
+./pqtest 10 
