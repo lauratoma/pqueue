@@ -13,4 +13,5 @@ Checkout file pqtest.c to see how to use it.
 To run: 
 
 make 
+
 ./pqtest 10 
